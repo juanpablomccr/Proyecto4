@@ -17,5 +17,5 @@ Las señáles observadas a continuación corresponden a la señal con los bits d
 ![graficas](https://user-images.githubusercontent.com/38232067/125637435-cb353cdf-6b0a-45d8-9472-c8e526b469fe.png)
 
 
-Para la señal modulada se tiene que el valor medio de cero por lo que se puede indicar ergodicidad, ademas se puede decir que es estacionario en sentido amplio, ya que el valor esperado no cambia cuando se modifica el tau. 
+Para la señal modulada se tiene que el valor medio de cero por lo que se puede indicar ergodicidad, ademas se puede decir que es estacionario en sentido amplio, ya que el valor esperado no cambia cuando se agrega un delta en el tiempo de evaluación. 
 ![valor_esperado](https://user-images.githubusercontent.com/38232067/125639182-28ffeaff-d33a-414c-9e6c-54b1685f35ec.png)
